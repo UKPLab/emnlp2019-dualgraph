@@ -52,10 +52,10 @@ Examples:
 
 ## Trained models
 
-- GIN LDC2015E86 - BLEU on test set: 22.93 ([download](https://public.ukp.informatik.tu-darmstadt.de/ribeiro/emnlp19_dualgraph/model_gin_ldc2015e86.pt))
-- GAT LDC2015E86 - BLEU on test set: 23.67 ([download](https://public.ukp.informatik.tu-darmstadt.de/ribeiro/emnlp19_dualgraph/model_gat_ldc2015e86.pt))
+- GIN LDC2015E86 - BLEU on test set: 24.60 ([download](https://public.ukp.informatik.tu-darmstadt.de/ribeiro/emnlp19_dualgraph/model_gin_ldc2015e86.pt))
+- GAT LDC2015E86 - BLEU on test set: 24.98 ([download](https://public.ukp.informatik.tu-darmstadt.de/ribeiro/emnlp19_dualgraph/model_gat_ldc2015e86.pt))
 - GGNN LDC2015E86 - BLEU on test set: 25.01 ([download](https://public.ukp.informatik.tu-darmstadt.de/ribeiro/emnlp19_dualgraph/model_ggnn_ldc2015e86.pt))
-- GIN LDC2017T10 - BLEU on test set: 27.16 ([download](https://public.ukp.informatik.tu-darmstadt.de/ribeiro/emnlp19_dualgraph/model_gin_ldc2017t10.pt))
+- GIN LDC2017T10 - BLEU on test set: 28.05 ([download](https://public.ukp.informatik.tu-darmstadt.de/ribeiro/emnlp19_dualgraph/model_gin_ldc2017t10.pt))
 - GAT LDC2017T10 - BLEU on test set: 27.26 ([download](https://public.ukp.informatik.tu-darmstadt.de/ribeiro/emnlp19_dualgraph/model_gat_ldc2017t10.pt))
 - GGNN LDC2017T10 - BLEU on test set: 28.26 ([download](https://public.ukp.informatik.tu-darmstadt.de/ribeiro/emnlp19_dualgraph/model_ggnn_ldc2017t10.pt))
 
