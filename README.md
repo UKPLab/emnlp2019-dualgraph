@@ -61,7 +61,7 @@ Examples:
 
 ## Decoding
 
-For decode the test set, run:
+For decode on the test set, run:
 ```
 ./decode.sh <gpu_id> <model> <nodes_file> <node1_file> <node2_file> <output>
 ```
