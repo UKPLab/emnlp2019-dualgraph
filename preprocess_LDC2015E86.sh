@@ -7,7 +7,7 @@ fi
 
 ROOT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
 
-sh ${ROOT_DIR}/process_amr/gen_LDC2015E86.sh ${1}
+bash ${ROOT_DIR}/process_amr/gen_LDC2015E86.sh ${1}
 
 python ${ROOT_DIR}/process_amr/generate_input_opennmt.py -i ${ROOT_DIR}/process_amr/data/amr_ldc2015e86/
 

@@ -2,13 +2,9 @@
 Leonardo Ribeiro
 ribeiro@aiphes.tu-darmstadt.de
 """
-from collections import Counter
 import sys
 import getopt
-import json
 import networkx as nx
-import numpy as np
-import matplotlib.pyplot as plt
 
 if sys.version_info[0] < 3:
     raise Exception("Python 3 or a more recent version is required.")

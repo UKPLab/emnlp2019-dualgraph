@@ -3,14 +3,15 @@ This repository contains the code for the EMNLP-IJCNLP 2019 paper: "Enhancing AM
 
 > This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication.
 
-This project is implemented using the framework [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) and the library [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric). 
+This project is implemented using the framework [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) and the library [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric). Please, refer to their website for further details on the installation and dependencies.
 
-## Environments
+## Environments and Dependencies
 
 - python 3
 - PyTorch 1.1.0
 - PyTorch Geometric 1.3.0
-
+- nltk
+- parsimonious
 
 ## Datasets
 
