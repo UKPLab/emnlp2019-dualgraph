@@ -34,14 +34,14 @@ For the LDC2017T10 dataset, run:
 ## Training
 For traning the model using the LDC2015E86 dataset, execute:
 ```
-./train_LDC2015E86.sh <gpu_id> <geometric_layer>
+./train_LDC2015E86.sh <gpu_id> <gnn_type> <gnn_layers> <start_decay_steps> <decay_steps>
 ```
 
 For the LDC2017T10 dataset, execute:
 ```
 ./train_LDC2017T10.sh <gpu_id> <gnn_type> <gnn_layers> <start_decay_steps> <decay_steps>
 ```
-Options for `<geometric_layer>` are `ggnn`, `gat` or `gin`. `<gnn_layers>` is the number of graph layers. Refer to [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) for `<start_decay_steps>` and `<decay_steps>`.
+Options for `<gnn_type>` are `ggnn`, `gat` or `gin`. `<gnn_layers>` is the number of graph layers. Refer to [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) for `<start_decay_steps>` and `<decay_steps>`.
 
 We lower the learning rate during training, after some epochs, as in Konstas et al. (2017).
 
