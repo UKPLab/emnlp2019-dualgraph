@@ -80,15 +80,18 @@ Contact person: Leonardo Ribeiro, ribeiro@aiphes.tu-darmstadt.de
 ## Citation
 
 ```
-@inproceedings{ribeiro19-dualgraph,
-    title = {Enhancing {AMR}-to-Text Generation with Dual Graph Representations},
-    author = {Ribeiro, Leonardo F. R. and Gardent, Claire and Gurevych, Iryna},
-    booktitle = {Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing ({EMNLP}}
-    pages = {to appear},
-    Xmonth = nov,
-    year = {2019},
-publisher = "Association for Computational Linguistics",
-    address = {Hong Kong, China},
+@inproceedings{ribeiro-etal-2019-dualgraph,
+    title = "Enhancing {AMR}-to-Text Generation with Dual Graph Representations",
+    author = "Ribeiro, Leonardo F. R.  and
+      Gardent, Claire  and
+      Gurevych, Iryna",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-1314",
+    pages = "3174--3185",
 }
 ```
 
